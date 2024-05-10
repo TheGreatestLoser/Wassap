@@ -1,6 +1,10 @@
 import numpy as np
 
 
+def helloWorld() -> str:
+    return "Hello, World!"
+
+
 def plus(a: int, b: int) -> int:
     return a + b
 

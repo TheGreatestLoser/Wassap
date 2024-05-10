@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def plus(a: int, b: int) -> int:
     return a + b
 
